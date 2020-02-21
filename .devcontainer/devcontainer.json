@@ -1,0 +1,13 @@
+{
+	"name": "Clojure",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"betterthantomorrow.calva",
+		"tonsky.clojure-warrior"
+	],
+	"remoteUser": "kyamada",
+	"settings":{
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"calva.jokerPath": "/usr/bin"
+	}
+}
